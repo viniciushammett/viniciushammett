@@ -1,3 +1,13 @@
+# Hi there!
+:computer: I'm Pentester and DevOps Enginner
+
+:house_with_garden: I’m based in Brazil
+
+Welcome to the board <br />
+Please excuse the mess <br />
+I'm still organazing and building here <br />
+You'll find a lot of stuffs here <br />
+
 <a href="https://github.com/viniciushammett">
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciushammett&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
