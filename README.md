@@ -3,7 +3,7 @@
 
 :house_with_garden: I’m based in Brazil
 
-Welcome to the board <br />
+Welcome aboard <br />
 Please excuse the mess <br />
 I'm still organazing and building here <br />
 You'll find a lot of stuffs here <br />
