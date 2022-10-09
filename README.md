@@ -5,7 +5,7 @@
 
 Welcome aboard <br />
 Please excuse the mess <br />
-I'm still organizing and building here <br />
+I'm still organizing and building <br />
 You'll find a lot of stuffs here <br />
 
 <a href="https://github.com/viniciushammett">
