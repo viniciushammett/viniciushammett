@@ -10,7 +10,7 @@ You'll find a lot of stuffs here <br />
 
 <a href="https://github.com/viniciushammett">
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciushammett&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciushammett&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushammett&layout=compact&langs_count=10&theme=dracula"/>
 
 # Tech Experience
