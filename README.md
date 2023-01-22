@@ -33,6 +33,8 @@ You'll find a lot of stuffs here <br />
   <img align="center" alt="Vini-C" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Vini-Bash" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Vini-PHP" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Vini-Go" height="50" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+          
  
  # CI/CD
  <div style="display: inline_block"><br>
