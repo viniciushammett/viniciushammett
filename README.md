@@ -45,7 +45,7 @@ You'll find a lot of stuffs here <br />
  
  # Cloud/Platform
  <div style="display: inline_block"><br>
-    <img align="center" alt="Vini-AWS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <img align="center" alt="Vini-AWS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <img align="center" alt="Vini-Azure" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
     <img align="center" alt="Vini-Google" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
           
