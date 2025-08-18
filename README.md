@@ -103,7 +103,7 @@ Critical infrastructure, Cloud, and Security • Building reliable pipelines, in
 
 | Project | Description | Main Tech | Link |
 |---|---|---|---|
-| 🔐 **Go Secret Vault** | Secure secrets vault in **Go**, inspired by HashiCorp Vault, with **AES-256**, REST API + CLI, and **JWT** authentication. | Supports **TTL**, audit logging, export to **Kubernetes Secrets**, **React** frontend, and CI/CD integration. | [📄 Read more]([./go-secret-vault/README.md](https://github.com/viniciushammett/Golang-DevOps-SRE-Aplicado/blob/main/go-secret-vault/README.md)) |
+| 🔐 **Go Secret Vault** | Secure secrets vault in **Go**, inspired by HashiCorp Vault, with **AES-256**, REST API + CLI, and **JWT** authentication. | Supports **TTL**, audit logging, export to **Kubernetes Secrets**, **React** frontend, and CI/CD integration. | [📄 Read more](https://github.com/viniciushammett/Golang-DevOps-SRE-Aplicado/blob/main/go-secret-vault/README.md) |
 | 🤖 **Go Log Anomaly Detector** | Go pipeline with **OpenTelemetry** tracing, anomaly detection using **ML**, and a **React frontend** for real-time visualization. | CI/CD with **MLOps** workflows, Prometheus/Grafana support, and Docker Compose deployment. | [📄 Read more](https://github.com/viniciushammett/Golang-DevOps-SRE-Aplicado/tree/main/go-log-anomaly-detector#readme) |
 | 🚀 **Go Deploy Orchestrator** | Deployment and automatic rollback orchestrator for Kubernetes with CI/CD integration. | API + CLI, canary and blue-green strategies, Prometheus thresholds, history, and manual approvals. | [📄 Read more](https://github.com/viniciushammett/Golang-DevOps-SRE-Aplicado/blob/main/go-deploy-orchestrator/README.md) |
 
