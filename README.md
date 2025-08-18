@@ -1,22 +1,22 @@
 <div align="center">
 
-# 👋 Hey, Eu sou o Vinicius Teixeira
+# 👋 Hey, I'm Vinicius Teixeira
 
 **DevOps Coordinator | SRE | Pentester**  
-Infra crítica, Cloud e Segurança • Construindo pipelines confiáveis, infra como código e automações que escalam.  
+Critical infrastructure, Cloud, and Security • Building reliable pipelines, infrastructure as code, and scalable automation.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-teixeira-silva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-teixeira-silva/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/viniciushammett)
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
-- 🇧🇷 Brasil  
-- 🔐 Atuação em **SRE, DevOps e Segurança** para ambientes de alta criticidade  
-- ☁️ Experiência em **AWS, Azure, Linux, Kubernetes, Observabilidade**  
-- 📚 Estudando **Segurança** e desenvolvendo projetos práticos em **Go** para DevOps/SRE  
+## 🚀 About Me
+- 🌍 Based in Brazil  
+- 🔐 Experience in **SRE, DevOps, and Security** for mission-critical environments  
+- ☁️ Skilled in **AWS, Azure, Linux, Kubernetes, Observability**  
+- 📚 Currently studying **RHCSA** and building hands-on **Go projects** for DevOps/SRE  
 
 ---
 
@@ -31,7 +31,7 @@ Infra crítica, Cloud e Segurança • Construindo pipelines confiáveis, infra 
 
 ## 🧰 Tech Stack
 
-### Sistemas Operacionais
+### Operating Systems
 <p>
   <img alt="Windows" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   <img alt="Linux" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
@@ -43,7 +43,7 @@ Infra crítica, Cloud e Segurança • Construindo pipelines confiáveis, infra 
   <img alt="RedHat" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg"/>
 </p>
 
-### Linguagens & Script
+### Languages & Scripting
 <p>
   <img alt="Go" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
   <img alt="Python" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
@@ -53,14 +53,14 @@ Infra crítica, Cloud e Segurança • Construindo pipelines confiáveis, infra 
   <img alt="JavaScript" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 </p>
 
-### Cloud & Plataforma
+### Cloud & Platforms
 <p>
   <img alt="AWS" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
   <img alt="Azure" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
   <img alt="GCP" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
 </p>
 
-### Infra como Código / CI-CD
+### Infrastructure as Code / CI-CD
 <p>
   <img alt="Terraform" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
   <img alt="Ansible" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/>
@@ -70,7 +70,7 @@ Infra crítica, Cloud e Segurança • Construindo pipelines confiáveis, infra 
   <img alt="Jenkins" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
 </p>
 
-### Containers & Orquestração
+### Containers & Orchestration
 <p>
   <img alt="Docker" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img alt="Kubernetes" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
@@ -83,7 +83,7 @@ Infra crítica, Cloud e Segurança • Construindo pipelines confiáveis, infra 
   <img alt="Tomcat" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg"/>
 </p>
 
-### Bancos de Dados
+### Databases
 <p>
   <img alt="MySQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img alt="PostgreSQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
@@ -91,7 +91,7 @@ Infra crítica, Cloud e Segurança • Construindo pipelines confiáveis, infra 
   <img alt="SQL Server" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
 </p>
 
-### Observabilidade & Monitoramento
+### Observability & Monitoring
 <p>
   <img alt="Prometheus" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg"/>
   <img alt="Grafana" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg"/>
@@ -99,26 +99,26 @@ Infra crítica, Cloud e Segurança • Construindo pipelines confiáveis, infra 
 
 ---
 
-## 🧪 Projetos em Destaque
+## 🧪 Featured Projects
 
-| Projeto | Descrição | Tech principais | Link |
+| Project | Description | Main Tech | Link |
 |---|---|---|---|
-| **Go Secret Vault** | Cofre de segredos inspirado no HashiCorp Vault, com **AES-256**, **JWT**, API REST e CLI. TTL e audit logging. | Go, JWT, AES-256, Kubernetes | [📄 Repositório](https://github.com/viniciushammett/go-secret-vault) |
-| **Go Log Anomaly Detector** | Pipeline em Go com **OpenTelemetry** e anomalias via ML; frontend React para visualização. | Go, ML, React, Prom/Grafana | [📄 Repositório](https://github.com/viniciushammett/go-log-anomaly-detector) |
-| **Go Deploy Orchestrator** | Orquestrador de deploys e rollback automático para Kubernetes com integração CI/CD. | API + CLI, canary e blue-green, thresholds Prometheus, histórico e aprovações manuais. | [📄 Leia mais](./go-deploy-orchestrator/README.md) |
+| 🔐 **Go Secret Vault** | Secure secrets vault in **Go**, inspired by HashiCorp Vault, with **AES-256**, REST API + CLI, and **JWT** authentication. | Supports **TTL**, audit logging, export to **Kubernetes Secrets**, **React** frontend, and CI/CD integration. | [📄 Read more](./go-secret-vault/README.md) |
+| 🤖 **Go Log Anomaly Detector** | Go pipeline with **OpenTelemetry** tracing, anomaly detection using **ML**, and a **React frontend** for real-time visualization. | CI/CD with **MLOps** workflows, Prometheus/Grafana support, and Docker Compose deployment. | [📄 Read more](./go-log-anomaly-detector/README.md) |
+| 🚀 **Go Deploy Orchestrator** | Deployment and automatic rollback orchestrator for Kubernetes with CI/CD integration. | API + CLI, canary and blue-green strategies, Prometheus thresholds, history, and manual approvals. | [📄 Read more](./go-deploy-orchestrator/README.md) |
 
 ---
 
-## ✅ Highlights Rápidos
-- 🧱 Infra como código (Terraform/Ansible) com módulos reutilizáveis  
-- 🔭 Observabilidade ponta-a-ponta (métricas, logs, tracing, alertas)  
-- 🛡️ Segurança por padrão: least privilege, segredos, hardening Linux  
-- 🔄 Pipelines CI/CD com gates de qualidade e testes automatizados  
+## ✅ Quick Highlights
+- 🧱 Infrastructure as Code (Terraform/Ansible) with reusable modules  
+- 🔭 End-to-end observability (metrics, logs, tracing, alerts)  
+- 🛡️ Security-first mindset: least privilege, secrets management, Linux hardening  
+- 🔄 CI/CD pipelines with automated testing and quality gates  
 
 ---
 
-## 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/vinícius-teixeira-silva/)  
+## 📫 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-teixeira-silva/)  
 - 🐙 [GitHub](https://github.com/viniciushammett)  
 
 ---
