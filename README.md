@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Vinicius Teixeira
 
-**DevOps Coordinator | SRE | Pentester**  
+**Principal DevSecOps Engineer | Pentester**  
 Critical infrastructure, Cloud, and Security • Building reliable pipelines, infrastructure as code, and scalable automation.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-teixeira-silva/)
@@ -17,15 +17,6 @@ Critical infrastructure, Cloud, and Security • Building reliable pipelines, in
 - 🔐 Experience in **SRE, DevOps, and Security** for mission-critical environments  
 - ☁️ Skilled in **AWS, Azure, Linux, Kubernetes, Observability**  
 - 📚 Currently building hands-on **Go projects** for DevOps/SRE  
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=viniciushammett&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushammett&layout=compact&langs_count=10&theme=dracula"/>
-</p>
 
 ---
 
@@ -96,16 +87,6 @@ Critical infrastructure, Cloud, and Security • Building reliable pipelines, in
   <img alt="Prometheus" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg"/>
   <img alt="Grafana" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg"/>
 </p>
-
----
-
-## 🧪 Featured Projects
-
-| Project | Description | Main Tech | Link |
-|---|---|---|---|
-| 🔐 **Go Secret Vault** | Secure secrets vault in **Go**, inspired by HashiCorp Vault, with **AES-256**, REST API + CLI, and **JWT** authentication. | Supports **TTL**, audit logging, export to **Kubernetes Secrets**, **React** frontend, and CI/CD integration. | [📄 Read more](https://github.com/viniciushammett/Golang-DevOps-SRE-Aplicado/blob/main/go-secret-vault/README.md) |
-| 🤖 **Go Log Anomaly Detector** | Go pipeline with **OpenTelemetry** tracing, anomaly detection using **ML**, and a **React frontend** for real-time visualization. | CI/CD with **MLOps** workflows, Prometheus/Grafana support, and Docker Compose deployment. | [📄 Read more](https://github.com/viniciushammett/Golang-DevOps-SRE-Aplicado/tree/main/go-log-anomaly-detector#readme) |
-| 🚀 **Go Deploy Orchestrator** | Deployment and automatic rollback orchestrator for Kubernetes with CI/CD integration. | API + CLI, canary and blue-green strategies, Prometheus thresholds, history, and manual approvals. | [📄 Read more](https://github.com/viniciushammett/Golang-DevOps-SRE-Aplicado/blob/main/go-deploy-orchestrator/README.md) |
 
 ---
 
