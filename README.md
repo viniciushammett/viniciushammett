@@ -16,7 +16,7 @@ Critical infrastructure, Cloud, and Security • Building reliable pipelines, in
 - 🌍 Based in Brazil  
 - 🔐 Experience in **SRE, DevOps, and Security** for mission-critical environments  
 - ☁️ Skilled in **AWS, Azure, GCP, OCI, Linux, Kubernetes, Observability**  
-- 📚 Currently building hands-on **Go projects** for DevOps/SRE  
+- 📚 Currently building hands-on **Go and Python projects** for DevOps/SRE  
 
 ---
 
